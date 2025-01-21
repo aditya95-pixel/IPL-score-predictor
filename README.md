@@ -42,7 +42,7 @@ The trained model is evaluated using mean absolute error (MAE).
 
 ## Usage Instructions
 
-Run the provided Python script main2.py. This script launches a GUI (Graphical User Interface) for predicting cricket scores based on user input.
+Run the provided Python script main2.py. This script launches a GUI (Graphical User Interface) using Tkinter for predicting cricket scores based on user input.
 
 In the GUI window, select the venue, batting team, bowling team, batsman, and bowler from the dropdown menus.
 
